@@ -1,10 +1,10 @@
 {
   "id": "the-magnus-archives-setting",
   "title": "The Magnus Archives Setting",
-  "url": "https://github.com/robrowald/magnus-archives",
-  "manifest": "https://github.com/robrowald/magnus-archives/releases/download/latest/module.json",
-  "download": "https://github.com/robrowald/magnus-archives/releases/download/latest/magnus.zip",
-  "version": "1.0.0",
+  "url": "https://github.com/robrowald/magnus",
+  "manifest": "https://github.com/robrowald/magnus/releases/download/latest/module.json",
+  "download": "https://github.com/robrowald/magnus/releases/download/latest/magnus.zip",
+  "version": "1.0.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "13",
